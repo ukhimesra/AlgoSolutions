@@ -1,2 +1,2 @@
 # AlgoSolutions
-Algorithm Solutions and Data Structures
+Algorithm and Data Structures Quick Code Snippets
